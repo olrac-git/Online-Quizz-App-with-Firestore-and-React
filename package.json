@@ -1,0 +1,11 @@
+{
+  "name": "onlinequizzfirebasereactbilderzutext",
+  "version": "1.0.0",
+  "description": "This will be the Structure for a React quizz app with Firestore as Backend Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlo von Reyher",
+  "license": "ISC"
+}
